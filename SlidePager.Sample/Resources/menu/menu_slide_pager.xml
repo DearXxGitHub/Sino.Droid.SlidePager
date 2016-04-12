@@ -1,0 +1,10 @@
+﻿<menu xmlns:android="http://schemas.android.com/apk/res/android">
+  <item
+      android:id="@+id/action_indicator_circle"
+      android:orderInCategory="100"
+      android:title="@string/action_indicator_circle" />
+  <item
+      android:id="@+id/action_indicator_fraction"
+      android:orderInCategory="100"
+      android:title="@string/action_indicator_fraction" />
+</menu>
