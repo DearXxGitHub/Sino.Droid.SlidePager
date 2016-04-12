@@ -8,4 +8,4 @@ Visual Studio 2015 + Xamarin 4.0.0.1717
     Install-Package Sino.Droid.SlidePager
 
 #示例图片
-![](https://github.com/Xamarin-Cn/SlidePager/blob/master/img/1.jpg)
+![](https://raw.githubusercontent.com/CSharpCross/Sino.Droid.SlidePager/dev/img/1.jpg)
